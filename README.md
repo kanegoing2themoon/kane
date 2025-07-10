@@ -1,2 +1,2 @@
-# kane
-hi im kane
+# Hi, im kane
+im a cybersecurity researcher 
